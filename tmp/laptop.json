@@ -1,0 +1,62 @@
+{
+ "id":  "f3dad645-4a88-4cac-abd9-c542fc2d0984",
+ "brand":  "Lenovo",
+ "name":  "Thinkpad X1",
+ "cpu":  {
+  "brand":  "Intel",
+  "name":  "Core i3-1005G1",
+  "numberCores":  3,
+  "numberThreads":  10,
+  "minGhz":  2.3462404048128684,
+  "maxGhz":  3.5477660116177736
+ },
+ "ram":  {
+  "value":  "33",
+  "unit":  5
+ },
+ "grus":  [
+  {
+   "brand":  "NVIDIA",
+   "name":  "RTX 2070",
+   "minGhz":  1.4547462006951686,
+   "maxGhz":  1.6737014730807256,
+   "memory":  {
+    "value":  "6",
+    "unit":  5
+   }
+  }
+ ],
+ "storages":  [
+  {
+   "driver":  2,
+   "memory":  {
+    "value":  "889",
+    "unit":  5
+   }
+  },
+  {
+   "driver":  1,
+   "memory":  {
+    "value":  "3",
+    "unit":  6
+   }
+  }
+ ],
+ "screen":  {
+  "sizeInch":  13.069631,
+  "resolution":  {
+   "width":  5386,
+   "height":  3030
+  },
+  "panel":  2,
+  "multitouch":  true
+ },
+ "keyboard":  {
+  "layout":  3,
+  "backlit":  false
+ },
+ "weightKg":  2.076096017007915,
+ "priceUsd":  1956.0752484972224,
+ "releaseYear":  2015,
+ "updatedAt":  "2023-08-10T15:57:46.652064885Z"
+}
